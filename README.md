@@ -7,3 +7,7 @@ FOR INSTALL PALE MOON HERE:https://www.palemoon.org/
 FOR INSTALL ADOBE FLASH PLAYER HERE:https://archive.org/download/flashplayer32_0r0_371_win
 FOR INSTALL STYLEM HERE:https://addons.palemoon.org/addon/stylem/
 <img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/8804b3b2-8bb3-45a7-bb50-8c4d7e4e0079" />
+
+HOME...
+<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/153376ff-e4a2-4c97-8b5a-4d74953c44e6" />
+
